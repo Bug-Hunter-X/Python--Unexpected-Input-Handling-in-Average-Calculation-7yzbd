@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error related to unexpected input handling in a function designed to calculate the average of a list of numbers. The `bug.py` file contains the code with the potential bug. The `bugSolution.py` file provides a more robust solution.  The bug is that it doesn't explicitly check if the input is actually a list of numbers.
